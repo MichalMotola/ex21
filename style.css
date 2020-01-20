@@ -92,3 +92,23 @@
     align-items: center;
     justify-content: center;
 }
+.newslatter {
+    background: white url(images/img.png) no-repeat center center;
+    background-size: cover;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 180px;
+    width: auto;
+    margin-bottom: 90px;
+    background-color: rgba(134, 134, 134, 0.9);
+    opacity: 0.85;
+    height: 300px;
+
+}
+
+#email{
+    width: 100%;
+    background-color: transparent;
+    color: #ffffff;
+} 
