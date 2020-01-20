@@ -3,3 +3,46 @@
     padding: 0;
 
 }
+.body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar-nav {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    text-align: right;
+}
+
+.navbar {
+    background-color: aliceblue;
+    padding: 0;
+
+}
+
+.navbar-brand {
+    height: 40px;
+    padding-left: 20px;
+
+}
+
+
+.hero {
+    background: white url(images/hero.jpg) no-repeat center center;
+    background-size: cover;
+    width: 100%;
+    height: calc(100vh - 90px);
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {
+    position: relative;
+}
