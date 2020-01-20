@@ -112,3 +112,21 @@
     background-color: transparent;
     color: #ffffff;
 } 
+.titleEmail{
+    color: #ffffff;
+}
+.submit
+{
+    border: 0px;
+    background-color: rgb(62, 198, 255);
+    left: 1175px;
+    top: 1630px;
+    color: white;
+    height: calc(1.5em + .75rem + 2px);
+    width:60%;
+}
+.gallery{
+ flex-wrap: nowrap;
+margin: 0px;
+padding: 0px;
+}
